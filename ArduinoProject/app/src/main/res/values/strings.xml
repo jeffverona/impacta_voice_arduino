@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppImpacta</string>
+    <string name="action_settings">Configurações</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">Diga algo&#8230;</string>
+    <string name="speech_not_supported">Desculpe! Seu dispositivo não suporta entrada de fala.</string>
+    <string name="tap_on_mic">Toque no microfone para falar</string>
+    <string name="led_verde">Led Verde</string>
+</resources>
